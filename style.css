@@ -1,3 +1,18 @@
+@font-face {
+    font-family: ggsans-bold;
+    src: url(,/fonts/gg-sans/ggsans-bold);
+}
+
+@font-face {
+    font-family: ggsans-normal;
+    src: url(./fonts/gg-sans/ggsans-Normal.ttf);
+}
+
+@font-face {
+    font-family: abc-gintoNord;
+    src: url(./fonts/Ginto-Nord/Ginto-Nord-600.woff2);
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
